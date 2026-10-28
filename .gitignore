@@ -1,0 +1,40 @@
+# Environments
+.env
+.env.local
+*.env
+backend/venv/
+backend/.venv/
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+*.whl
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.vite/
+
+# Application storage & databases
+backend/data/
+data/
+*.sqlite
+*.sqlite3
+*.db
+uploads/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
