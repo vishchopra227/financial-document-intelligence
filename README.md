@@ -8,7 +8,7 @@ Financial Document Intelligence is an AI-powered application designed to help us
 Built with **FastAPI, React, TypeScript, and Groq-powered LLM integration**, the project combines document processing, hybrid retrieval, and Retrieval-Augmented Generation (RAG) to make financial information easier to explore and understand.
 
 ---
-
+ 
 ## ✨ Key Features
 
 ### 📄 1. Financial Document Processing
