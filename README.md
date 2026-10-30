@@ -10,7 +10,7 @@ Built with **FastAPI, React, TypeScript, and Groq-powered LLM integration**, the
 ---
  
 ## ✨ Key Features
-
+ 
 ### 📄 1. Financial Document Processing
 - Upload and process supported financial documents.
 - Extract text from documents for downstream analysis.
