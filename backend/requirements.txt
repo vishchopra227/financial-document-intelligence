@@ -1,0 +1,11 @@
+﻿fastapi
+uvicorn[standard]
+SQLAlchemy
+PyMySQL
+python-dotenv
+httpx
+numpy
+pypdf
+python-docx
+python-multipart
+pytest
