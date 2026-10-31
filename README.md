@@ -21,7 +21,7 @@ Built with **FastAPI, React, TypeScript, and Groq-powered LLM integration**, the
 - Ask natural-language questions about financial documents.
 - Retrieve relevant context before generating answers.
 - Use retrieved document content to support responses.
-- Access information without manually searching through lengthy reports.
+- Access information without manually searching through lengthy reports. 
 
 ### 🔎 3. Hybrid Information Retrieval
 The RAG pipeline combines multiple retrieval techniques:
